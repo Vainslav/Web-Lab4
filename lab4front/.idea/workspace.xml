@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cebb822-cb1f-4bcf-8573-5b0ef2d54989" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/auth/Auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/Graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/ResultTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/ShootForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/components/Spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/components/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage/mainPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/security/ProtectedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/PointSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+        <option value="Less File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rkYHSgPDB0TxTGkPweAmbINods" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vlad_/Documents/Лабы/Веб/Lab4",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.npm start.executor": "Run",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vlad_\Documents\Лабы\Веб\lab4front\src\security" />
+      <recent name="C:\Users\vlad_\Documents\Лабы\Веб\lab4front\src\auth" />
+      <recent name="C:\Users\vlad_\Documents\Лабы\Веб\lab4front\src\mainPage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cebb822-cb1f-4bcf-8573-5b0ef2d54989" name="Changes" comment="" />
+      <created>1737104454123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737104454123</updated>
+      <workItem from="1737104455036" duration="21697000" />
+      <workItem from="1737133957734" duration="3001000" />
+      <workItem from="1737142997096" duration="37000" />
+      <workItem from="1737143053935" duration="68000" />
+      <workItem from="1737143148133" duration="4142000" />
+      <workItem from="1737172020703" duration="11100000" />
+      <workItem from="1737184830926" duration="8063000" />
+      <workItem from="1737192976150" duration="936000" />
+      <workItem from="1737791449336" duration="3089000" />
+      <workItem from="1738238122752" duration="44000" />
+      <workItem from="1740212158557" duration="544000" />
+      <workItem from="1740602545328" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

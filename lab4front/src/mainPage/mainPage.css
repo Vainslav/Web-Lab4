@@ -1,0 +1,137 @@
+.mainContainer{
+    margin: auto auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.exit-container{
+    display: flex;
+    justify-content: flex-end;
+    height: auto;
+    text-align: center;
+}
+
+.left-block{
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.submit-container{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.input-group{
+    margin-top: 10px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    select{
+        text-align: center;
+        font-size: 17px;
+        width: 100px;
+        height: auto;
+    }
+}
+
+.form{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.form-inputs{
+    display: flex;
+    justify-content: space-around;
+}
+
+.submit{
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.submit:hover{
+    background-color: rgb(214, 205, 205);
+}
+
+.submit:active {
+    transform: translateY(1px);
+}
+
+.table-div {
+    display: flex;
+    overflow-y: auto;
+    height: 600px;
+}
+
+.table {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-bottom: 60px;
+    border: 1px solid #dddddd;
+    border-collapse: collapse;
+}
+.table thead{
+    background: #efefef;
+}
+.table tbody{
+    background: white;
+}
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid #dddddd;
+}
+.table td {
+    border: 1px solid #dddddd;
+    padding: 5px;
+}
+
+.svg-button{
+    border: 0px;
+    background: #FFF;
+    height: 300px;
+    width: 300px;
+    align-self:center;
+    margin-right: 30px
+}
+
+@media (min-width: 828px) and (max-width: 1227px){
+    .left-block{
+        width: auto;
+        flex-direction: row;
+    }
+    .content{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 828px){
+    .left-block{
+        width: auto;
+        flex-direction: column;
+    }
+    .content{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+}
